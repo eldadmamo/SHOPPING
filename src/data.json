@@ -6,30 +6,30 @@
       "title": "lovely",
       "description": "this is amazing",
       "availableSizes": ["X", "XL"],
-      "price": 20
+      "price": 35
     },
     {
       "_id": "image2",
       "image": "https://media.boohoo.com/i/boohoo/pzz68041_black_xl/black-plus-celestial-sun-and-moon-slogan-t-shirt?$product_page_main_magic_zoom$",
       "title": "drimatic",
       "description": "this is amazing",
-      "availableSizes": ["X", "XL"],
-      "price": 20
+      "availableSizes": ["XS", "XL"],
+      "price": 40
     },
     {
       "_id": "image3",
       "image": "https://media.boohoo.com/i/boohoo/pzz64113_black_xl/black-petite-rib-square-neck-crop-top?$product_page_main_magic_zoom$",
       "title": "astonishing",
       "description": "this is amazing",
-      "availableSizes": ["X", "XL"],
-      "price": 20
+      "availableSizes": ["S", "L"],
+      "price": 21
     },
     {
       "_id": "image4",
       "image": "https://media.boohoo.com/i/boohoo/dzz00908_sky_xl/sky-blue-woven-ruffle-angel-sleeve-blouse?$product_page_main_magic_zoom$",
       "title": "nice",
       "description": "this is amazing",
-      "availableSizes": ["X", "XL"],
+      "availableSizes": ["M", "L"],
       "price": 20
     },
     {
@@ -37,16 +37,16 @@
       "image": "https://media.boohoo.com/i/boohoo/dzz35053_black_xl/black-basic-oversized-boyfriend-t-shirt?$product_page_main_magic_zoom$",
       "title": "amazing",
       "description": "this is amazing",
-      "availableSizes": ["X", "XL"],
-      "price": 20
+      "availableSizes": ["S", "XXL"],
+      "price": 16
     },
     {
       "_id": "image6",
       "image": "https://media.boohoo.com/i/boohoo/pzz61347_black_xl/black-plus-ruffle-angel-sleeve-high-neck-blouse?$product_page_main_magic_zoom$",
       "title": "beautiful",
       "description": "this is amazing",
-      "availableSizes": ["X", "XL"],
-      "price": 20
+      "availableSizes": ["M", "XXL"],
+      "price": 56
     }
   ]
 }
